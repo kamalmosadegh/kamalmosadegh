@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-kamalmosadegh.github.io-38bdf8?style=for-the-badge)](https://kamalmosadegh.github.io)
 [![Email](https://img.shields.io/badge/Email-kamalmosadegh6977@gmail.com-a78bfa?style=for-the-badge)](mailto:kamalmosadegh6977@gmail.com)
 
-I turn briefs into working, verified products — fast. In November 2026 I designed and built **10 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, a high-performance CSV reader, a push-optimal Sokoban solver, and a PDF-to-markdown extractor engineered to never silently return wrong content — each tested end-to-end and shipped with reproducible results.
+I turn briefs into working, verified products — fast. In November 2026 I designed and built **11 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, a high-performance CSV reader, a push-optimal Sokoban solver, a PDF-to-markdown extractor engineered to never silently return wrong content, and a tiny generative-text program that writes a calming passage — each tested end-to-end and shipped with reproducible results.
 
 > 🚀 **Latest release — pdf-slice:** a PDF-to-markdown extractor that never silently returns wrong content — content-hash cache, automatic OCR fallback, per-page provenance, MCP server included. [Explore the project →](https://github.com/kamalmosadegh/pdf-slice)
 
@@ -25,6 +25,7 @@ I turn briefs into working, verified products — fast. In November 2026 I desig
 | [**BotRoster**](https://github.com/kamalmosadegh/botroster) | AI bot manager — Android app (Kotlin) | A roster of Gemini-powered assistants with chat, connected apps & action approvals |
 | [**Fast CSV Reader**](https://github.com/kamalmosadegh/fast-csv-reader) | Dependency-free CSV reader (JavaScript) | **~7.8× faster** than the reference, byte-identical answers |
 | [**BoxPush**](https://github.com/kamalmosadegh/boxpush) | Push-optimal Sokoban solver (TypeScript) | **All 70 test levels in their exact optimal push counts** |
+| [**Stillwater**](https://github.com/kamalmosadegh/stillwater) | Tiny generative-text program (Python) | Writes a 251-character calming passage, length-guarded to 1–280 chars, deterministic |
 
 ## 🛒 Products
 - **SMC Order Block Pro** — Pine Script v6 ICT / Smart Money indicator for TradingView ([Gumroad](https://6091690025306.gumroad.com/l/smc-order-block-pro))
