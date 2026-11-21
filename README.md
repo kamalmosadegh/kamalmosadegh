@@ -7,6 +7,8 @@
 
 I turn briefs into working, verified products — fast. In November 2026 I designed and built **9 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, a high-performance CSV reader, and a push-optimal Sokoban solver — each tested end-to-end and shipped with reproducible results.
 
+> 🚀 **Latest release — BotRoster:** an Android app that manages your personal team of Gemini-powered AI bots, with a built-in approval protocol so you always stay in control. [Explore the project →](https://github.com/kamalmosadegh/botroster)
+
 ## 🧰 Tech I work with
 ![Skills](https://skillicons.dev/icons?i=ts,js,python,react,html,css,git,github&theme=dark)
 
