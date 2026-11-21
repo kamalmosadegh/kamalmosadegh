@@ -1,19 +1,14 @@
 # Hi, I'm Kamal Mosadegh 👋
 
-
 **Freelance Developer** — algorithmic trading bots · HTML5 games · data models & forecasting · TradingView indicators
-
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kamalmosadegh.github.io-38bdf8?style=for-the-badge)](https://kamalmosadegh.github.io)
 [![Email](https://img.shields.io/badge/Email-kamalmosadegh6977@gmail.com-a78bfa?style=for-the-badge)](mailto:kamalmosadegh6977@gmail.com)
 
-
-I turn briefs into working, verified products — fast. In November 2026 I designed and built **7 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, and an Android AI bot manager — each tested end-to-end and shipped with reproducible results.
-
+I turn briefs into working, verified products — fast. In November 2026 I designed and built **8 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, and a high-performance CSV reader — each tested end-to-end and shipped with reproducible results.
 
 ## 🧰 Tech I work with
 ![Skills](https://skillicons.dev/icons?i=ts,js,python,react,html,css,git,github&theme=dark)
-
 
 ## 🏆 Featured projects
 | Project | What it is | Highlight |
@@ -25,17 +20,15 @@ I turn briefs into working, verified products — fast. In November 2026 I desig
 | [**Solmar Bay**](https://github.com/kamalmosadegh/solmar-bay) | Open-world crime game — [▶ play](https://kamalmosadegh.github.io/solmar-bay/game/) | Living city, police AI — built in one day |
 | [**The World in One Picture**](https://github.com/kamalmosadegh/world-in-one-picture) | News infographic generator (Python) | Deterministic daily poster |
 | [**BotRoster**](https://github.com/kamalmosadegh/botroster) | AI bot manager — Android app (Kotlin) | A roster of Gemini-powered assistants with chat, connected apps & action approvals |
-
+| [**Fast CSV Reader**](https://github.com/kamalmosadegh/fast-csv-reader) | Dependency-free CSV reader (JavaScript) | **~7.8× faster** than the reference, byte-identical answers |
 
 ## 🛒 Products
 - **SMC Order Block Pro** — Pine Script v6 ICT / Smart Money indicator for TradingView ([Gumroad](https://6091690025306.gumroad.com/l/smc-order-block-pro))
 - **Faceless Shorts Launch Kit** — Remotion production system for faceless YouTube Shorts ([Gumroad](https://6091690025306.gumroad.com/l/faceless-shorts-launch-kit))
 
-
 ## 📊 GitHub stats
 ![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamalmosadegh&show_icons=true&theme=tokyonight)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalmosadegh&layout=compact&theme=tokyonight)
-
 
 ## 📫 Hire me
 Open to freelance projects worldwide (remote). Send a brief — get a plan, a price and a delivery date.
