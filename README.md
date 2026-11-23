@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-kamalmosadegh.github.io-38bdf8?style=for-the-badge)](https://kamalmosadegh.github.io)
 [![Email](https://img.shields.io/badge/Email-kamalmosadegh6977@gmail.com-a78bfa?style=for-the-badge)](mailto:kamalmosadegh6977@gmail.com)
 
-I turn briefs into working, verified products — fast. In November 2026 I designed and built **14 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, a high-performance CSV reader, a push-optimal Sokoban solver, a PDF-to-markdown extractor engineered to never silently return wrong content, a tiny generative-text program that writes a calming passage, a tiny stack virtual machine that runs bytecode programs exactly to spec, a patch tool that applies AI-written edits in four formats, and a second tiny generative-text program that writes a calming passage about a quiet kitchen — each tested end-to-end and shipped with reproducible results.
+I turn briefs into working, verified products — fast. In November 2026 I designed and built **15 complete projects** — an algorithmic Bitcoin trading bot, a statistical forecasting model, a token-valuation model ranking 204 protocols, two complete browser games, a programmatic news-infographic generator, an Android AI bot manager, a high-performance CSV reader, a push-optimal Sokoban solver, a PDF-to-markdown extractor engineered to never silently return wrong content, a tiny generative-text program that writes a calming passage, a tiny stack virtual machine that runs bytecode programs exactly to spec, a patch tool that applies AI-written edits in four formats, a second tiny generative-text program that writes a calming passage about a quiet kitchen, and a faster static site generator that builds byte-identical output in about a third of the reference implementation's CPU time — each tested end-to-end and shipped with reproducible results.
 
 > 🚀 **Latest release — mend:** one command-line tool that applies the edits AI models write, in all four formats they use — with three-tier fuzzy matching and atomic writes. [Explore the project →](https://github.com/kamalmosadegh/mend)
 
@@ -30,6 +30,7 @@ I turn briefs into working, verified products — fast. In November 2026 I desig
 | [**TinyStack**](https://github.com/kamalmosadegh/tinystack) | Tiny stack virtual machine (TypeScript) | **Perfect score on all 40 test programs**, beating the reference implementation |
 | [**mend**](https://github.com/kamalmosadegh/mend) | One patch tool for every AI edit format (TypeScript) | **Perfect score on all 300 checks**, three-tier fuzzy matching, atomic writes |
 | [**Quiet Kitchen**](https://github.com/kamalmosadegh/quiet-kitchen) | Tiny generative-text program (Python) | Writes a 255-character calming passage, length-guarded to 1–280 chars, deterministic |
+| [**SiteForge**](https://github.com/kamalmosadegh/siteforge) | Faster static site generator (TypeScript) | **~3.3× faster** than the reference, byte-identical output on 12 cases |
 
 ## 🛒 Products
 - **SMC Order Block Pro** — Pine Script v6 ICT / Smart Money indicator for TradingView ([Gumroad](https://6091690025306.gumroad.com/l/smc-order-block-pro))
